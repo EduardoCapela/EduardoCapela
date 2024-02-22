@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Eduardo<br><br>23 year old<br><br>From Portugal<br><br>I'm Currently working on my resume
+Hello, I'm Eduardo<br><br>23 year old<br><br>From Portugal<br>
 
 
 # 💻 Tech Stack:
